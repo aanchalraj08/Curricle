@@ -1,4 +1,4 @@
-# Curricle - The Cute To-Do List 😸
+# Curricle - Add To Cart App 😸
 
 Quick start:
 
