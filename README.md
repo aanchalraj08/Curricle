@@ -1,4 +1,4 @@
-# co097427c919a8af765b6a9ed
+# Curricle - The Cute To-Do List 😸
 
 Quick start:
 
